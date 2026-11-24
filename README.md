@@ -16,8 +16,11 @@ Business Intelligence: Power BI#Notebook Environments:** Jupyter-Notebook, Googl
 
 #Projects
 Excel: E-commerce Sales Analysis Dashboard
+
 Power BI: Interactive CAR_SALES_ANALYSIS_DASHBOARD,HEALTH_ANALYSIS_DASHBOARD
+
 Python: Data Cleaning and Exploratory Data Analysis
+
 SQL: Database Queries and Data Analysis
 
 🎓 #Education
