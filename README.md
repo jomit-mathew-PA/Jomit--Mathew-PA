@@ -35,7 +35,7 @@ SQL: Database Queries and Data Analysis
 
 Bachelor of Computer Applications (BCA)
 
-🎯 **#Career Goal**
+🎯 **Career Goal**
 
 Aspiring to become a Data Analyst and use data-driven insights to solve real-world business problems.
 
