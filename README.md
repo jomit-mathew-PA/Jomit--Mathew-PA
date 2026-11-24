@@ -21,7 +21,7 @@ Spreadsheet: Microsoft Excel
 
 Business Intelligence: Power BI#Notebook Environments:** Jupyter-Notebook, Google-Colab
 
-#Projects
+**Projects**
 
 Excel: E-commerce Sales Analysis Dashboard
 
@@ -31,11 +31,11 @@ Python: Data Cleaning and Exploratory Data Analysis
 
 SQL: Database Queries and Data Analysis
 
-🎓 #Education
+🎓 #**Education**
 
 Bachelor of Computer Applications (BCA)
 
-🎯 #Career Goal
+🎯 **#Career Goal**
 
 Aspiring to become a Data Analyst and use data-driven insights to solve real-world business problems.
 
