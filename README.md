@@ -31,7 +31,7 @@ Python: Data Cleaning and Exploratory Data Analysis
 
 SQL: Database Queries and Data Analysis
 
-🎓 #**Education**
+🎓 **Education**
 
 Bachelor of Computer Applications (BCA)
 
